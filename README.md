@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Web Developer and an e
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" title="babel" width="42" height="42" />
 </p>
 <p>
+<img src="https://mui.com/static/logo.svg" alt="Material UI" title="Material UI" width="42" height="42" />
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title="tailwind" width="42" height="42" />
 <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" title="materialize" width="42" height="42" />
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" title="bulma" width="42" height="42" />
