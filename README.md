@@ -41,6 +41,10 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Web Developer and an e
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
 
+## 🛠️ My Projects  
+<a target="_blank" href="https://www.npmjs.com/package/makepack" style="display: inline-block;"><img src="https://camo.githubusercontent.com/2df7d402cc9af16e97147f9bafba628fddec12ef62520a2e022e4cb634257bee/68747470733a2f2f6170692e6d7970696562642e636f6d2f75706c6f6164732f323032342f31312f32392f696d616765732f63333161356663373331613839633832666430653834366464363961393933363235333338352e706e67" alt="makepack" width="42" height="42" /></a>
+<a target="_blank" href="https://www.npmjs.com/package/react-state-bucket" style="display: inline-block;"><img src="https://camo.githubusercontent.com/0a213c8765c586ff52b7ab39296788a5ef9b89f4736ca79dabaa60a2c098bf58/68747470733a2f2f6170692e6d7970696562642e636f6d2f75706c6f6164732f323032342f31312f32362f696d616765732f356333316135666337333161383963383266643065383436646436396139393337383234332e706e67" alt="react state bucket" width="42" height="42" /></a>
+
 <h2>⚡️ Where to find me</h2>
 
 <p><a target="_blank" href="mailto:devnaxrul@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/-Email-05122A?style=for-the-badge&logo=gmail&logoColor=white&color=orange" alt="gmail" /></a>
