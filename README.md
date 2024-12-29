@@ -51,8 +51,12 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Web Developer and an e
 
 ## 🛠️ My Projects  
 <p>
+  <a href="https://github.com/devnax/makepack" target="_blank">
 <img title="makepack cli" style="display:inline-block" src="https://camo.githubusercontent.com/2df7d402cc9af16e97147f9bafba628fddec12ef62520a2e022e4cb634257bee/68747470733a2f2f6170692e6d7970696562642e636f6d2f75706c6f6164732f323032342f31312f32392f696d616765732f63333161356663373331613839633832666430653834366464363961393933363235333338352e706e67" alt="makepack" width="42"  />
+    </a>
+  <a href="https://github.com/devnax/react-state-bucket" target="_blank">
 <img title="React State Bucket" style="display:inline-block" src="https://camo.githubusercontent.com/0a213c8765c586ff52b7ab39296788a5ef9b89f4736ca79dabaa60a2c098bf58/68747470733a2f2f6170692e6d7970696562642e636f6d2f75706c6f6164732f323032342f31312f32362f696d616765732f356333316135666337333161383963383266643065383436646436396139393337383234332e706e67" alt="react state bucket" width="42"  />
+     </a>
 </p>
 <h2>⚡️ Where to find me</h2>
 
