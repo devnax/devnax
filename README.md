@@ -1,5 +1,4 @@
-<div style="background: #FFFFFF">
-# Hi there, I'm Devnax! 👋
+# 👋 Hi there, I'm Devnax! 
 
 Welcome to my GitHub profile! I'm a passionate Full-Stack Web Developer and an entrepreneur. With a deep interest in building scalable web applications, I specialize in creating efficient, elegant, and user-friendly solutions.
 
@@ -64,4 +63,3 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Web Developer and an e
 ---
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project. Let's build something amazing together!
-</div>
