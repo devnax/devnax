@@ -13,9 +13,10 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Web Developer and an e
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="javascript" title="javascript" width="42" height="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="42" height="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="42" height="42" />
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" title="nextjs" width="42" height="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" title="nodejs" width="42" height="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" title="express" width="42" height="42" />
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" title="nextjs" width="42" height="42" />
+  <img src="https://avatars.githubusercontent.com/u/10566080?s=48&v=4" alt="Socket IO" title="Socket IO" width="42" height="42" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" title="svelte" width="42" height="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="redux" width="42" height="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original.svg" alt="webpack" title="webpack" width="42" height="42" />
