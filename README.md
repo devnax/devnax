@@ -35,10 +35,6 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Web Developer and an e
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="firebase" width="42" height="42" />
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" title="graphql" width="42" height="42" />
 </p>
-<p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="42" height="42" />
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" width="42" height="42" />
-</p>
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" title="aws" width="42" height="42" />
@@ -47,6 +43,10 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Web Developer and an e
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" title="docker" width="42" height="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" title="nginx" width="42" height="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="linux" width="42" height="42" />
+</p>
+<p>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="42" height="42" />
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" width="42" height="42" />
 </p>
 
 ## 🛠️ My Works  
@@ -67,7 +67,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Web Developer and an e
 | Name                                      | Description                                                                                                                                                                            |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [PIE Academy](https://mypiebd.com)        | This is a Learning Management System (LMS) that I built from the ground up, leveraging modern web technologies. The platform is powered by Next.js, Express, AWS EC2, RDS and Amplify. |
-| [Study Abroad](https://apply.mypiebd.com) | This is designed to simplify the university application process. this is a streamlined platform built with Next.js, Socket.io, AWS EC2, RDS.                                               |
+| [Study Abroad](https://apply.mypiebd.com) | This is designed to simplify the university application process. this is a streamlined platform built with Next.js, Socket.io, AWS EC2, RDS, S3.                                               |
 
 
 <h2>⚡️ Where to find me</h2>
