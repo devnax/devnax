@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Devnax! 
 
-Welcome to my GitHub profile! I'm a passionate Full-Stack Web Developer and an entrepreneur. With a deep interest in building scalable web applications, I specialize in creating efficient, elegant, and user-friendly solutions.
+I'm a passionate Full-Stack Web Developer and an entrepreneur. With a deep interest in building scalable web applications, I specialize in creating efficient, elegant, and user-friendly solutions.
 
 
 <h2>🚀 Languages and Tools I Use</h2>
