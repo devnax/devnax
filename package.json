@@ -1,0 +1,17 @@
+{
+  "name": "devnax",
+  "version": "1.0.0",
+  "description": "I'm a passionate Full-Stack Web Developer and an entrepreneur. With a deep interest in building scalable web applications, I specialize in creating efficient, elegant, and user-friendly solutions.",
+  "scripts": {},
+  "keywords": [],
+  "author": "Naxrul Ahmed",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devnax"
+  },
+  "homepage": "https://github.com/devnax",
+  "bugs": {
+    "url": "https://github.com/devnax"
+  }
+}
