@@ -3,7 +3,7 @@
 I'm a passionate Full-Stack Web Developer and an entrepreneur. With a deep interest in building scalable web applications, I specialize in creating efficient, elegant, and user-friendly solutions.
 
 
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>🚀 Languages and tools i use</h2>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" title="html5" width="42" height="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" title="css3" width="42" height="42" />
