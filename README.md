@@ -70,12 +70,12 @@ Explore All
 </a>
 </p>
 
-## 🌟 Currently Working
+## 🌟 Work in Progress
 
 | Name                                      | Description                                                                                                                                                                            |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [PIE Academy](https://mypiebd.com)        | This is a Learning Management System (LMS) that I built from the ground up, leveraging modern web technologies. The platform is powered by Next.js, Express, AWS EC2, RDS and Amplify. |
-| [Study Abroad](https://apply.mypiebd.com) | This is designed to simplify the university application process. this is a streamlined platform built with Next.js, Socket.io, AWS EC2, RDS, S3.                                       |
+| [Study Abroad](https://apply.mypiebd.com) | This is designed to simplify the university application process. This is a streamlined platform built with Next.js, Socket.io, AWS EC2, RDS, and S3.                                       |
 
 
 <h2>⚡️ Where to find me</h2>
